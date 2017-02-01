@@ -1,0 +1,22 @@
+{
+    "name": "manga/aprendendo-tdd",
+    "require": {
+        
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    },
+
+    "autoload" : {
+        "psr-4" : {
+            "Alexander\\" : "src/"
+        }
+    },
+
+    "authors": [
+        {
+            "name": "Alexander",
+            "email": "aafonso.93@gmail.com"
+        }
+    ]
+}
